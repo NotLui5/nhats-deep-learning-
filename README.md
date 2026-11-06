@@ -6,6 +6,8 @@ To learn computer vision in health field with ain to implement research in our f
 
 ### How to run it:
 
-```conda env create -f environment.yml```
-```conda activate nhats-course```
-```python src/week01_first_program.py```
+```
+conda env create -f environment.yml 
+conda activate nhats-course 
+python src/week01_first_program.py 
+```
