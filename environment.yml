@@ -1,0 +1,6 @@
+name: nhats-course
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
